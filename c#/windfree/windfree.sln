@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "windfree.common", "windfree.common\windfree.common.csproj", "{8BB578FE-7DA8-40CB-BEB2-59E36312A2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample.code", "sample.code\sample.code.csproj", "{3D545A70-52A0-4EFA-A13B-EED76383F41E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BB578FE-7DA8-40CB-BEB2-59E36312A2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB578FE-7DA8-40CB-BEB2-59E36312A2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB578FE-7DA8-40CB-BEB2-59E36312A2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB578FE-7DA8-40CB-BEB2-59E36312A2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D545A70-52A0-4EFA-A13B-EED76383F41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D545A70-52A0-4EFA-A13B-EED76383F41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D545A70-52A0-4EFA-A13B-EED76383F41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D545A70-52A0-4EFA-A13B-EED76383F41E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
